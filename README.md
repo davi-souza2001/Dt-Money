@@ -1,38 +1,17 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+<html>   
+<h1>
+   Dt Money
+</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
+Dt money is a project where you can register all your earnings and expenses for a certain period. This way, you can have better financial control.
 
+## Techs
+<div>
+    <img alt="REACT" width="140" src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    
+## Interface
 
-## 💻 Projeto
-
-ignite-reactjs-03-dt-money
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
+<img width="1591" alt="Screenshot at Nov 09 10-23-00" src="https://github.com/user-attachments/assets/4f336b0e-f570-4a70-b7e0-a6d618f367ab">
 
 
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
-
+</html>   
